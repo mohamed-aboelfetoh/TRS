@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96e7a608.css",
+    "main.js": "/static/js/main.2b6e9e18.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/د محمود يس.jpg": "/static/media/د محمود يس.025eb7a3e1dcf4f3420c.jpg",
+    "static/media/logo.png": "/static/media/logo.301e4d45885f84af3a9b.png",
+    "static/media/د محمد المسيري.jpg": "/static/media/د محمد المسيري.27845e7f38151d32b158.jpg",
+    "static/media/د محمد فوزي.jpg": "/static/media/د محمد فوزي.e8cc5461a2043c30f584.jpg",
+    "static/media/homeImage.png": "/static/media/homeImage.961bc76f9a5d33347cf0.png",
+    "static/media/Younan.jpg": "/static/media/Younan.0b623d8963a5fe17ff73.jpg",
+    "index.html": "/index.html",
+    "main.96e7a608.css.map": "/static/css/main.96e7a608.css.map",
+    "main.2b6e9e18.js.map": "/static/js/main.2b6e9e18.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96e7a608.css",
+    "static/js/main.2b6e9e18.js"
+  ]
+}
